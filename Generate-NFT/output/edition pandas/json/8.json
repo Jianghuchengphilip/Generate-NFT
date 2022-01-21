@@ -5,11 +5,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "God Hestia"
+            "value": "Ares"
         },
         {
             "trait_type": "Clothes",
-            "value": "T-shirt"
+            "value": "Dancing unifom"
         },
         {
             "trait_type": "Face",
@@ -17,11 +17,11 @@
         },
         {
             "trait_type": "Eye",
-            "value": "Boring"
+            "value": "Happy"
         },
         {
             "trait_type": "Tattoo",
-            "value": "Tattoo1"
+            "value": "Tattoo3"
         },
         {
             "trait_type": "JEWELRY1",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "JEWELRY2",
-            "value": "Horns"
+            "value": "Kill-Matt"
         },
         {
             "trait_type": "JEWELRY3",
-            "value": "none"
+            "value": "Rimmed-glasses"
         }
     ]
 }

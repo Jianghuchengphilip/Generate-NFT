@@ -5,11 +5,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Ares"
+            "value": "Poseidon"
         },
         {
             "trait_type": "Clothes",
-            "value": "T-shirt"
+            "value": "White shirt"
         },
         {
             "trait_type": "Face",
@@ -21,19 +21,19 @@
         },
         {
             "trait_type": "Tattoo",
-            "value": "Tattoo1"
+            "value": "Tattoo4"
         },
         {
             "trait_type": "JEWELRY1",
-            "value": "Cigarette"
+            "value": "Cigar"
         },
         {
             "trait_type": "JEWELRY2",
-            "value": "Horns"
+            "value": "Hat"
         },
         {
             "trait_type": "JEWELRY3",
-            "value": "Sunglasses"
+            "value": "Scarf"
         }
     ]
 }

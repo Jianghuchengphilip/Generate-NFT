@@ -9,7 +9,7 @@
         },
         {
             "trait_type": "Clothes",
-            "value": "Football uniform"
+            "value": "Red-and-black-shirt"
         },
         {
             "trait_type": "Face",
@@ -17,23 +17,23 @@
         },
         {
             "trait_type": "Eye",
-            "value": "Happy"
+            "value": "Boring"
         },
         {
             "trait_type": "Tattoo",
-            "value": "Tattoo5"
+            "value": "Tattoo1"
         },
         {
             "trait_type": "JEWELRY1",
-            "value": "Cigarette"
+            "value": "Cigar"
         },
         {
             "trait_type": "JEWELRY2",
-            "value": "Horns"
+            "value": "Hat"
         },
         {
             "trait_type": "JEWELRY3",
-            "value": "Glasses"
+            "value": "Sunglasses"
         }
     ]
 }

@@ -5,7 +5,7 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Apollo the god of light"
+            "value": "Demeter, goddess of agriculture"
         },
         {
             "trait_type": "Clothes",
@@ -17,23 +17,23 @@
         },
         {
             "trait_type": "Eye",
-            "value": "white-eyes"
+            "value": "Boring"
         },
         {
             "trait_type": "Tattoo",
-            "value": "Tattoo1"
+            "value": "none"
         },
         {
             "trait_type": "JEWELRY1",
-            "value": "Cigar"
+            "value": "Lollipop"
         },
         {
             "trait_type": "JEWELRY2",
-            "value": "Hat"
+            "value": "none"
         },
         {
             "trait_type": "JEWELRY3",
-            "value": "Sunglasses"
+            "value": "none"
         }
     ]
 }

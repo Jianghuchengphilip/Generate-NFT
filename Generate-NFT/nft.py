@@ -129,6 +129,9 @@ def generate_images(edition, count, drop_dup=True):
 
 def main():
     global log
+    folder_path = "./log"
+    if not os.path.exists(folder_path):  # 判断是否存在文件夹如果不存在则创建为文件夹
+        os.makedirs(folder_path)
     log = Logger('./log/all.log', level='info')
     log.logger.info('检查配置...')
     filename = './config.yaml'

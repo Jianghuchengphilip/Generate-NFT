@@ -5,11 +5,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "God Hestia"
+            "value": "Apollo the god of light"
         },
         {
             "trait_type": "Clothes",
-            "value": "Basketball clothes"
+            "value": "Football uniform"
         },
         {
             "trait_type": "Face",
@@ -17,23 +17,23 @@
         },
         {
             "trait_type": "Eye",
-            "value": "white-eyes"
+            "value": "Boring"
         },
         {
             "trait_type": "Tattoo",
-            "value": "Tattoo2"
+            "value": "Tattoo1"
         },
         {
             "trait_type": "JEWELRY1",
-            "value": "none"
+            "value": "Lollipop"
         },
         {
             "trait_type": "JEWELRY2",
-            "value": "Horns"
+            "value": "Kill-Matt"
         },
         {
             "trait_type": "JEWELRY3",
-            "value": "Sunglasses"
+            "value": "Scarf"
         }
     ]
 }

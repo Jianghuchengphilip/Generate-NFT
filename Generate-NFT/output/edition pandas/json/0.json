@@ -5,11 +5,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Ares"
+            "value": "God Hestia"
         },
         {
             "trait_type": "Clothes",
-            "value": "Suit"
+            "value": "Basketball clothes"
         },
         {
             "trait_type": "Face",
@@ -17,23 +17,23 @@
         },
         {
             "trait_type": "Eye",
-            "value": "Boring"
+            "value": "white-eyes"
         },
         {
             "trait_type": "Tattoo",
-            "value": "none"
+            "value": "Tattoo4"
         },
         {
             "trait_type": "JEWELRY1",
-            "value": "Cigar"
+            "value": "Lollipop"
         },
         {
             "trait_type": "JEWELRY2",
-            "value": "none"
+            "value": "Hat"
         },
         {
             "trait_type": "JEWELRY3",
-            "value": "Scarf"
+            "value": "Rimmed-glasses"
         }
     ]
 }

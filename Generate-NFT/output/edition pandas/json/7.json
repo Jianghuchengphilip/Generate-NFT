@@ -5,11 +5,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Hera"
+            "value": "Ares"
         },
         {
             "trait_type": "Clothes",
-            "value": "Red-and-black-shirt"
+            "value": "Basketball clothes"
         },
         {
             "trait_type": "Face",
@@ -17,23 +17,23 @@
         },
         {
             "trait_type": "Eye",
-            "value": "white-eyes"
+            "value": "Boring"
         },
         {
             "trait_type": "Tattoo",
-            "value": "Tattoo1"
+            "value": "Tattoo5"
         },
         {
             "trait_type": "JEWELRY1",
-            "value": "Cigar"
+            "value": "Cigarette"
         },
         {
             "trait_type": "JEWELRY2",
-            "value": "none"
+            "value": "Hat"
         },
         {
             "trait_type": "JEWELRY3",
-            "value": "none"
+            "value": "Scarf"
         }
     ]
 }

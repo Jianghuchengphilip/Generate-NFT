@@ -5,11 +5,11 @@
     "attributes": [
         {
             "trait_type": "background",
-            "value": "Apollo the god of light"
+            "value": "Poseidon"
         },
         {
             "trait_type": "Clothes",
-            "value": "Basketball clothes"
+            "value": "White shirt"
         },
         {
             "trait_type": "Face",
@@ -17,11 +17,11 @@
         },
         {
             "trait_type": "Eye",
-            "value": "Anger"
+            "value": "Boring"
         },
         {
             "trait_type": "Tattoo",
-            "value": "Tattoo3"
+            "value": "Tattoo4"
         },
         {
             "trait_type": "JEWELRY1",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "JEWELRY3",
-            "value": "none"
+            "value": "Sunglasses"
         }
     ]
 }
