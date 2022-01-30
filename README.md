@@ -1,6 +1,6 @@
 # Generate NFT
 
-https://img.shields.io/github/downloads/Jianghuchengphilip/Generate-NFT/total
+![](https://img.shields.io/github/downloads/Jianghuchengphilip/Generate-NFT/total)
 
 
 **克隆这个项目**
