@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/github/downloads/Jianghuchengphilip/Generate-NFT/total)
 ![](https://img.shields.io/github/license/Jianghuchengphilip/Generate-NFT?color=f05032)
+![](https://img.shields.io/github/v/release/Jianghuchengphilip/Generate-NFT?color=important)
 ![](https://img.shields.io/github/release-date/Jianghuchengphilip/Generate-NFT?color=fcc624)
 
 **克隆这个项目**
