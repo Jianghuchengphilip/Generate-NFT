@@ -11,7 +11,7 @@
 
 **安装库**
 
-```pip install Pillow pandas progressbar2 yaml -i https://pypi.tuna.tsinghua.edu.cn/simple```
+```pip install Pillow pandas progressbar2 PyYaml -i https://pypi.tuna.tsinghua.edu.cn/simple```
 
 **添加素材**
 
