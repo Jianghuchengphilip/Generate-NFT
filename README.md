@@ -32,7 +32,7 @@ config.yaml必知:
 3、asset中不能有空文件夹
 4、config.yaml右键选记事本方式打开。
 5、config.yaml中CONFIG:[]中的每一个{}都对应asset里面相对应的文件夹。
-
+6、output/rarity_weights_data.json可以查看每个元素出现概率。
 config参数规范:
 1、键:值
 示例：
