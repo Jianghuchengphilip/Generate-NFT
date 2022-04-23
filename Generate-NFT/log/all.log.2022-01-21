@@ -1,0 +1,19 @@
+2022-01-21 22:30:20,145 - [line:136] - INFO: 检查配置...
+2022-01-21 22:30:20,150 - [line:142] - INFO: ./config.yaml
+2022-01-21 22:30:20,150 - [line:143] - INFO: {'CONFIG': [{'id': 1, 'name': 'background', 'directory': 'Background', 'required': True, 'rarity_weights': 'random'}, {'id': 2, 'name': 'Clothes', 'directory': 'Clothes', 'required': True, 'rarity_weights': 'None'}, {'id': 3, 'name': 'Face', 'directory': 'Face', 'required': True, 'rarity_weights': 'None'}, {'id': 4, 'name': 'Eye', 'directory': 'Eye', 'required': True, 'rarity_weights': 'None'}, {'id': 5, 'name': 'Tattoo', 'directory': 'Tattoo', 'required': False, 'rarity_weights': 'None'}, {'id': 6, 'name': 'JEWELRY1', 'directory': 'JEWELRY1', 'required': False, 'rarity_weights': 'None'}, {'id': 7, 'name': 'JEWELRY2', 'directory': 'JEWELRY2', 'required': False, 'rarity_weights': 'None'}, {'id': 8, 'name': 'JEWELRY3', 'directory': 'JEWELRY3', 'required': False, 'rarity_weights': 'None'}], 'drop_dup': True, 'CONFIG_JSON_NAME': 'Greek-Mythical-Panda', 'CONFIG_JSON_DESCRIPTION': 'The Greek Mythical Panda is a collection of 100 NFT digital identities with accessory backgrounds generated entirely from random seeds. Let you experience random art.', 'CONFIG_JSON_IPFS': ''}
+2022-01-21 22:30:20,150 - [line:144] - INFO: 检查素材...
+2022-01-21 22:30:20,150 - [line:4] - WARNING: Aphrodite.jpg不为png格式可能发生合成错误!(请保持asset里文件夹都为png格式)
+2022-01-21 22:30:20,150 - [line:4] - WARNING: Demeter, goddess of agriculture.jpg不为png格式可能发生合成错误!(请保持asset里文件夹都为png格式)
+2022-01-21 22:30:20,150 - [line:4] - WARNING: God Hestia.jpg不为png格式可能发生合成错误!(请保持asset里文件夹都为png格式)
+2022-01-21 22:30:20,150 - [line:4] - WARNING: Hera.jpg不为png格式可能发生合成错误!(请保持asset里文件夹都为png格式)
+2022-01-21 22:30:20,151 - [line:147] - INFO: 您可以创建总共184320个不同的NFT
+2022-01-21 22:30:20,151 - [line:148] - INFO: 您希望创建多少个NFT？输入一个大于0的数字:
+2022-01-21 22:30:46,040 - [line:153] - INFO: 创建10个NFT
+2022-01-21 22:30:46,041 - [line:154] - INFO: 您想把这些NFT命名为:
+2022-01-21 22:30:48,416 - [line:156] - INFO: 存储NFT文件夹名:pandas
+2022-01-21 22:30:48,416 - [line:157] - INFO: 开始生成...
+2022-01-21 22:30:50,270 - [line:118] - INFO: 生成第 10 张图片, 10张不同
+2022-01-21 22:30:50,271 - [line:121] - INFO: 移除 0 张图片...
+2022-01-21 22:30:50,276 - [line:160] - INFO: 保存元数据...
+2022-01-21 22:30:50,278 - [line:162] - INFO: 生成成功!
+2022-01-21 22:30:50,278 - [line:163] - INFO: --------------------------------------------------------------------------------------------
