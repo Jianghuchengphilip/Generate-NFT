@@ -19,12 +19,12 @@ BASE_JSON = {
     "image": CONFIG_JSON_URL,
     "attributes": [],
 }
+
 def generate_paths(edition_name):
     edition_path = os.path.join('output', 'edition ' + str(edition_name))
     metadata_path = os.path.join(edition_path, 'metadata.csv')
     json_path = os.path.join(edition_path, 'json')
     return edition_path, metadata_path, json_path
-
 
 def clean_attributes(attr_name):
     clean_name = attr_name.replace('_', ' ')
@@ -58,7 +58,6 @@ def main():
     if not os.path.exists(json_path):
         os.makedirs(json_path)
     df, zfill_count = get_attribute_metadata(metadata_path)
-
     for idx, row in df.iterrows():
         item_json = deepcopy(BASE_JSON)
         item_json['name'] = item_json['name'] + str(idx)
@@ -71,5 +70,4 @@ def main():
         item_json_path = os.path.join(json_path, str(idx) + ".json")
         with open(item_json_path, 'w') as f:
             json.dump(item_json, f)
-
 main()
