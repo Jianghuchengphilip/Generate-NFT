@@ -32,9 +32,9 @@ def parse_config():
         elif layer['rarity_weights'] == 'random':
             rarities = [random.random() for x in traits]
         elif type(layer['rarity_weights']) == list:
-            Logger('./log/error.log', level='error').logger.error(f"确保您拥有当前数量的稀有权重(图片数:{len(traits)},权重数:{len(layer['rarity_weights'])},应将config.yaml其中设置相同)")
             assert len(traits) == len(layer['rarity_weights']), f"确保您拥有当前数量的稀有权重(图片数:{len(traits)},权重数:{len(layer['rarity_weights'])},应将config.yaml其中设置相同)"
             if len(traits) != len(layer['rarity_weights']):
+                Logger('./log/error.log', level='error').logger.error(f"确保您拥有当前数量的稀有权重(图片数:{len(traits)},权重数:{len(layer['rarity_weights'])},应将config.yaml其中设置相同)")
                 sys.exit()
             rarities = layer['rarity_weights']
         else:
